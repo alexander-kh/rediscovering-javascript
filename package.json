@@ -1,0 +1,15 @@
+{
+  "name": "rediscovering_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Khlipun",
+  "license": "ISC"
+}
